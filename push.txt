@@ -1,1 +1,1 @@
-push changes to GitHub using git push into the text file
+push changes to GitHub
